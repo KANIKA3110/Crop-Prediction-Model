@@ -2,6 +2,7 @@
 
 Team Name : ELITE THUNDER
 
+This Project is made for Digital Village Hackathon
 
 Problem Statement -8  : Develop a Machine Learning Model that can predict the crop to be grown according to the factor given by farmer.
 
